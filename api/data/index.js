@@ -115,7 +115,7 @@
       delete WATCH_MAP[filename];
       // Sync changes
       shell.cd(WATCH_FOLDER);
-      log.debug('Syncing posts found under %s', shell.process.cwd());
+      log.debug('Syncing posts found under %s', process.cwd());
       if(shell.exec(`git commit -am 'updated ${filename}'`).code !== 0) {
         log.error('commit failed');
       }
