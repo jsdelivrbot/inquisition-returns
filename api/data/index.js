@@ -116,7 +116,7 @@
       // Sync changes
       shell.cd(WATCH_FOLDER);
       log.debug('Syncing posts found under %s', process.cwd());
-      if(shell.exec(`git commit -am 'updated ${filename}'`).code !== 0) {
+      if(shell.exec(`git commit -am 'auto sync update'`).code !== 0) {
         log.error('commit failed');
       }
       if (shell.exec('git push').code !== 0) {
