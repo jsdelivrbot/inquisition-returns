@@ -117,5 +117,5 @@ commandment.
 ---
 References for further research
 * [Fourth Commandment](https://www.bible.com/bible/1/exo.20.8-11)
-* [*Sun-day* as day of
+* [Sun-day as day of
   rest](http://www.historychannel.com.au/this-day-in-history/constantine-decrees-sun-day-as-day-of-rest/)
