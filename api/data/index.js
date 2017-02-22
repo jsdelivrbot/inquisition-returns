@@ -116,10 +116,13 @@
       // Sync changes
       shell.cd(WATCH_FOLDER);
       log.debug('Syncing posts found under %s', shell.process.cwd());
-      shell.exec('git add .');
-      shell.exec(`git commit -m 'updated ${filename}'`);
-      shell.exec('git pull');
-      shell.exec('git push');
+      shell.exec(`git add filename`);
+      if(shell.exec(`git commit -m 'updated ${filename}'`).code !== 0){
+        log.error('commit failed');
+      }
+      if (shell.exec('git push').code !== 0) {
+        log.error('pushed failed');
+      }
 
       // Go back to current folder
       shell.cd(__dirname);
