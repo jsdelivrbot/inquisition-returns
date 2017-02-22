@@ -6,7 +6,6 @@ image=https://servone.wspecs.com/wspecs/full/constantine.jpg
 publish=true
 summary=Throughout the ages, the inhabitants of the world worshiped the sun. In one form or another, deities were created to represent the sun. Numerous creative form of nature worship has existed in almost all civilizations. Some create a god out of everything; however, the sun has received an undeserved homage and reverence that is only due to the Creator God.
 created=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
-publishDate=Mon Jun 13 2016 05:40:51 GMT+0300 (EEST)
 updated=Wed Feb 22 2017 07:34:06 GMT+0200 (EET)
 searches=
 -->
@@ -117,5 +116,5 @@ commandment.
 ---
 References for further research
 * [Fourth Commandment](https://www.bible.com/bible/1/exo.20.8-11)
-* [Sun-day as day of
+* [*Sun-day* as day of
   rest](http://www.historychannel.com.au/this-day-in-history/constantine-decrees-sun-day-as-day-of-rest/)
