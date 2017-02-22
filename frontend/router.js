@@ -55,7 +55,9 @@
     }
 
     function syncHandler(req, res) {
+      shell.cd(__dirname + '/..');
       shell.exec('git pull');
+      shell.cd(__dirname);
       res.render('error', {
         code: res.statusCode,
         info: 'Done',
