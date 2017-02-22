@@ -43,4 +43,3 @@ The next morning Lucius come to check on the dead bodies. To his surprise not on
 
 ## Closing comment
 Even in the midst of increased paganism in the Christian church of the fourth century,  faithful forty soldiers refused to sacrifice to idols. They kept their convictions until death. Not all are called to martyrdom; however, all of us need the courage to stand firm in times of trials. The Roman Emperor Julius Ceasar reminded us that “It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.” We should ask ourselves how long will our patience last when enduring pain? By refusing idol worship, God gave the forty soldiers the “patience of the saints:…they that keep the commandments of God, and the faith of Jesus.”
-
