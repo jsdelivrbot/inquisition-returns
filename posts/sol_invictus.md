@@ -96,7 +96,7 @@ the Sabbath which is the seventh day of the week is Saturday.
 > Protestants ought to keep their Sabbath on Saturday, and thus leave Catholics
 > in full possession of Sunday.
 >
-> *Catholic Record, September 17, 1891.*
+> *Catholic Record, Sept. 17, 1891.*
 
 ## Closing Comment
 Why then does many worship on Sunday providing that such practice is
