@@ -8,6 +8,7 @@
   const Author = require('./../models/author');
   const Post = require('./../models/post');
   const search = require('./../endpoints/search');
+  const shell = require('shelljs');
   const watch = require('node-watch');
 
   const WATCH_MAP = {};
@@ -16,6 +17,11 @@
   const TEMPLATE = fs.readFileSync(`${__dirname}/post.tmpl`, ENCODING);
   const WATCH_FOLDER = __dirname + '/../../posts';
 
+  /**
+   * @param {Regex} pattern - regex to filter files
+   * @param {Function} fn - the callback function
+   * @return {Function} filter function
+   */
   function filter(pattern, fn) {
     return function(filename) {
       if (pattern.test(filename)) {
@@ -60,6 +66,10 @@
     return post;
   }
 
+  /**
+   * @param {string} filename - file to sync
+   * @return {Promise<string>} - name of the file synced
+   */
   function syncFile(filename) {
     return new Promise((resolve, reject) => {
       try {
@@ -96,15 +106,34 @@
     });
   }
 
+  /**
+   * @param {string} filename - file to sync
+   * @return {void}
+   */
   function syncChange(filename) {
     syncFile(filename).then(() => {
       delete WATCH_MAP[filename];
+      // Sync changes
+      shell.cd(WATCH_FOLDER);
+      log.debug('Syncing posts found under %s', shell.process.cwd());
+      shell.exec('git pull');
+      shell.exec('git add .');
+      shell.exec('git commit -m \'updated \'');
+      shell.exec('git push');
+
+      // Go back to current folder
+      shell.cd(__dirname);
+      log.debug('Done with sync');
     }).catch(e => {
       log.error(e);
       delete WATCH_MAP[filename];
     });
   }
 
+  if (!shell.which('git')) {
+    log.error('Sorry, this script requires git');
+    process.exit(1);
+  }
 
   if (args.options.sync) {
     for (const filename of packager.getFiles(WATCH_FOLDER)) {

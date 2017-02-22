@@ -5,6 +5,8 @@
 
   'use strict';
 
+  const shell = require('shelljs');
+
   module.exports = function(app, root, appInfo, request, utils){
     appInfo.stickyHeader = false;
     appInfo.referrer = '#';
@@ -52,12 +54,23 @@
       });
     }
 
+    function syncHandler(req, res) {
+      shell.exec('git pull');
+      res.render('error', {
+        code: res.statusCode,
+        info: 'Done',
+        message: 'All synced up!',
+      });
+    }
+
     app.get(root + '/', mainHandler);
     app.get(root + '/posts', mainHandler);
     app.get(root + '/posts/:page', mainHandler);
     app.get(root + '/post/:id', blogHandler);
     app.get(root + '/search', searchHandler);
     app.get(root + '/search/:query', searchHandler);
+    app.get(root + '/udpate', syncHandler);
+    app.get(root + '/sync', syncHandler);
     app.get('*', (_, res) => {
       app.locals.notFound(res);
     });

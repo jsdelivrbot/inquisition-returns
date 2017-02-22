@@ -12,6 +12,7 @@
   const fn = api.lib.functions;
   const exporter = api.lib.exports;
   const Post = require('./../models/post');
+  const Author = require('./../models/author');
 
   const TABLE = 'posts';
 
@@ -153,7 +154,7 @@
           {publish: true},
           {_id: 0, id: 1, summary: 1, publishDate: 1, title: 1},
           (err, docs) => {
-            response = [];
+            let response = [];
             if (docs) {
               const page = req.params.page;
               const slice = page === '1' ? 11 : 10;

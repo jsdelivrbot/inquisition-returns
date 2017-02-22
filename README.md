@@ -11,6 +11,7 @@ Throughout history man and woman of faith fought for the liberty to exercise the
 
 * [ejs](https://www.npmjs.com/package/ejs) 
 * [fs](https://www.npmjs.com/package/fs) 
+* [shelljs](https://www.npmjs.com/package/shelljs) 
 * [node-watch](https://www.npmjs.com/package/node-watch) 
 * [remove-markdown](https://www.npmjs.com/package/remove-markdown) 
 * [basic-auth](https://www.npmjs.com/package/basic-auth) 
