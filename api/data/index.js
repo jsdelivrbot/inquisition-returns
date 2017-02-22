@@ -116,9 +116,9 @@
       // Sync changes
       shell.cd(WATCH_FOLDER);
       log.debug('Syncing posts found under %s', shell.process.cwd());
-      shell.exec('git pull');
       shell.exec('git add .');
-      shell.exec('git commit -m \'updated \'');
+      shell.exec(`git commit -m 'updated ${filename}'`);
+      shell.exec('git pull');
       shell.exec('git push');
 
       // Go back to current folder
