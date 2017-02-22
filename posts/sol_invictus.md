@@ -6,8 +6,13 @@ image=https://servone.wspecs.com/wspecs/full/constantine.jpg
 publish=true
 summary=Throughout the ages, the inhabitants of the world worshiped the sun. In one form or another, deities were created to represent the sun. Numerous creative form of nature worship has existed in almost all civilizations. Some create a god out of everything; however, the sun has received an undeserved homage and reverence that is only due to the Creator God.
 created=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
+<<<<<<< HEAD
 publishDate=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
 updated=Wed Feb 22 2017 08:46:44 GMT+0200 (EET)
+=======
+updated=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
+updated=Wed Feb 22 2017 07:34:06 GMT+0200 (EET)
+>>>>>>> c9659b2f8481b35368c4ec0022fef5fa755774da
 searches=
 -->
 
