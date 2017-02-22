@@ -1,0 +1,5 @@
+<% if (post) { %>
+  <h3><a href="post/<%- post.id || post.key %>" target="_self"><%- post.title %></a></h3>
+  <h5 class="time"><%- post.publishDate || 0%></h5>
+  <p><%- post.summary %></p>
+<% } %>

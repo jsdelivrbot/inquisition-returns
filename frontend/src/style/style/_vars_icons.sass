@@ -1,0 +1,189 @@
+// ********************
+// ICONS
+// ********************
+$maincolor: $foreground
+$icon_size: 32px
+$U1: ceil($icon_size / 32)
+$U2: ceil($icon_size / 16)
+$U3: ceil($icon_size / 12)
+$U4: ceil($icon_size / 8)
+$U5: ceil($icon_size / 7)
+$U6: ceil($icon_size / 5.4)
+$U7: ceil($icon_size / 4.9)
+$U8: ceil($icon_size / 4)
+$U9: ceil($icon_size / 3.7)
+$U10: ceil($icon_size / 3.2)
+$U11: ceil($icon_size / 3.1)
+$U12: ceil($icon_size / 2.7)
+$U13: ceil($icon_size / 2.5)
+$U14: ceil($icon_size / 2.3)
+$U15: ceil($icon_size / 2.2)
+$U16: ceil($icon_size / 2)
+$U17: ceil($icon_size / 1.9)
+$U18: ceil($icon_size / 1.8)
+$U19: ceil($icon_size / 1.7)
+$U20: ceil($icon_size / 1.6)
+$U21: ceil($icon_size / 1.55)
+$U22: ceil($icon_size / 1.5)
+$U23: ceil($icon_size / 1.4)
+$U24: ceil($icon_size / 1.34)
+$U25: ceil($icon_size / 1.3)
+$U26: ceil($icon_size / 1.25)
+$U27: ceil($icon_size / 1.2)
+$U28: ceil($icon_size / 1.15)
+$U29: ceil($icon_size / 1.12)
+$U30: ceil($icon_size / 1.1)
+$U31: ceil($icon_size / 1.05)
+$U32: $icon_size
+$stroke: $U2 solid
+
+// ********************
+// FUNCTIONS
+// ********************
+=stickCenter($top: 0, $right: 0, $bottom: 0, $left: 0)
+  position: absolute
+  @if $top == $bottom
+    @if $left == $right
+      //stick center method 1
+      left: 50%
+      top: 50%
+      transform: translate(-50%, -50%)
+    @else
+      //stick center V
+      top: 50%
+      transform: translateY(-50%)
+      right: $right
+      left: $left
+      margin: 0 auto
+  @else if $left == $right
+    //stick center H
+    left: 50%
+    transform: translateX(-50%)
+    top: $top
+    bottom: $bottom
+    margin: auto 0
+  @else
+    //stick center method 2
+    top: $top
+    right: $right
+    bottom: $bottom
+    left: $left
+    margin: auto
+
+=stickCenterH
+  position: absolute
+  left: 50%
+  transform: translateX(-50%)
+
+=stickCenterV
+  position: absolute
+  top: 50%
+  transform: translateY(-50%)
+
+=square($length)
+  width: $length
+  height: $length
+
+=goldenRectL($width)
+  width: $width
+  height: ceil($width / 1.61803)
+
+=goldenRectP($width)
+  width: $width
+  height: ceil($width * 1.61803)
+
+=wDiagonal($length)
+  width: ceil(sqrt(2 * $length * $length))
+
+=hDiagonal($length)
+  height: ceil(sqrt(2 * $length * $length))
+
+//Math functions given from https://github.com/terkel/mathsass
+@function sqrt($x)
+  @if $x < 0
+    @warn "Argument for `sqrt()` must be a positive number."
+    @return null
+  $ret: 1
+  @for $i from 1 through 24
+    $ret: $ret - (pow($ret, 2) - $x) / (2 * $ret)
+  @return $ret
+
+@function pow($base, $exp)
+  @if $exp == floor($exp)
+    $r: 1
+    $s: 0
+    @if $exp < 0
+      $exp: $exp * -1
+      $s: 1
+    @while $exp > 0
+      @if $exp % 2 == 1
+        $r: $r * $base
+      $exp: floor($exp * 0.5)
+      $base: $base * $base
+    @return if($s != 0, 1 / $r, $r)
+  @else
+    @return exp(log($base) * $exp)
+
+.icono-stroke
+  border: $U2 solid
+
+.stickCenterV
+  +stickCenterV
+
+.stickCenterH
+  +stickCenterH
+
+.stickCenter
+  +stickCenter
+
+.spin[class*="spin"]
+  animation: loading-spinner 2s infinite linear
+
+@keyframes loading-spinner
+  0%
+    transform: rotate(0deg)
+  100%
+    transform: rotate(360deg)
+
+[class*="icon-"]
+  cursor: pointer
+  display: inline-block
+  vertical-align: middle
+  position: relative
+  font-style: normal
+  color: $maincolor
+  text-align: left
+  text-indent: -9999px
+  direction: ltr
+  &:before, &:after
+    content: ''
+    pointer-events: none
+  &[class*="Circle"]
+    @extend .icono-stroke
+    border-radius: 50%
+    width: $U30
+    height: $U30
+    margin: $U2
+  &[class*="Square"]
+    @extend .icono-stroke
+    border-radius: $U4
+    width: $U30
+    height: $U30
+    margin: $U2
+  &, & *
+    box-sizing: border-box
+
+//*-- Search Icons --*\\
+=search_icon($factor)
+  +square($U22*$factor)
+  border-radius: 50%
+  border: $U2*$factor solid
+  transform: rotate(45deg)
+  margin: ($factor*$U4) ($factor*$U4) ($factor*$U8) ($factor*$U8)
+  &:before
+    width: $U4*$factor
+    height: $U11*$factor
+    @extend .stickCenterH
+    box-shadow: inset 0 0 0 $U32*$factor
+    top: $U19*$factor
+    border-radius: 0 0 $U1*$factor $U1*$factor

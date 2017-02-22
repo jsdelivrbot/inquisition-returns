@@ -1,0 +1,48 @@
+<div id="entry">
+  <div class="container">
+
+    <% if (post) { %>
+      <% author = post.author %>
+     <div class="post-content">
+       <div class="info">
+          <h1><%- post.title %></h1>
+          <p><span class="author"><%- author.first %></span> wrote this on</p>
+          <p class="time"><%- post.publishDate %></p>
+        </div>
+        <%- html %>
+        <div class="author-info">
+          <div class="author-card">
+            <div class="photo">
+              <img src="<%- author.image %>" alt="<%- author.first %>">
+            </div>
+            <div class="bio">
+              <p><%- author.about %></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <% } else { %>
+      <div>
+        <h4>Inquisition Returns</h4>
+        <p>No content found for this url.</p>
+      </div>
+    <% } %>
+
+    <div class="back">
+      <% if (post.prev) { %>
+        <a href="post/<%-post.prev.id %>" target="_self">
+          &larr; <strong class="text">Previous</strong>
+          <strong class="title"><%- post.prev.title%></strong>
+        </a>
+      <% } %>
+      <a href="posts/1" target="_self"><strong>Back to Blog</strong></a>
+      <% if (post.next) { %>
+        <a href="post/<%-post.next.id %>" target="_self">
+          <strong class="title"><%- post.next.title%></strong>
+          <strong class="text">Next </strong>&rarr;
+        </a>
+      <% } %>
+    </div>
+ 
+  </div>
+</div>

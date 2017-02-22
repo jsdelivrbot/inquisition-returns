@@ -1,0 +1,23 @@
+<div class="topbar <%- stickyHeader ? 'stick' : ''%>">
+  <div class="left">
+    <a href="<%- referrer %>" target="_self">
+      <svg class="menu-icon">
+        <use xlink:href="img/defs.svg#prev" />
+      </svg>
+    </a>
+  </div>
+  <span class="title"><%= title %></span>
+  <div class="right">
+    <svg class="search">
+      <use xlink:href="img/defs.svg#search" />
+    </svg>
+  </div>
+
+  <div class="searchbox">
+    <svg class="search-button">
+      <use xlink:href="img/defs.svg#search" />
+    </svg>
+    <input type="text" placeholder="Search">
+  </div>
+</div>
+

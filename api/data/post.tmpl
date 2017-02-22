@@ -1,0 +1,15 @@
+<!--properties
+title=<%- title %>
+id=<% if (locals.id) { %><%- id %><% } %>
+authorKey=<%- authorKey %>
+image=<% if (locals.image) { %><%- image %><% } %>
+publish=<%- publish %>
+summary=<%- summary %>
+created=<% if (locals.created) { %><%- created %><% } %>
+publishDate=<% if (locals.publishDate) { %><%- publishDate %><% } %>
+updated=<% if (locals.updated) { %><%- updated %><% } %>
+searches=<% if (locals.searches) { %><%- JSON.stringify(searches) %><% } %>
+-->
+
+![<%- title %>'s Quote](<% if (locals.image) { %><%- image %><% } %>)
+<%- md %>

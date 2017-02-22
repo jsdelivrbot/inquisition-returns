@@ -1,0 +1,33 @@
+=uniform_col($arr)
+  @each $i in $arr
+    .row-#{$i}
+      width: 100%
+    .row-#{$i}:after
+      content: ""
+      clear: both
+      display: block
+    .row-#{$i} .col
+      width: 100%/$i
+
+// Custom size col
+=col($size, $arr, $width)
+  @each $i in $arr
+    .col-#{$i}-#{$size}
+      width : 100% * ($i/$size)
+      +breakpoint(mobile)
+        width: $width
+
+.row
+  width: 100%
+.row:after
+  content: ""
+  clear: both
+  display: block
+
+[class*="col"]
+  float: left
+  +responsive('padding', 15px, 1.2)
+
++col(3, 1 2, 100%)
++col(2, 1, 100%)
++col(10, 5, 50%)

@@ -51,4 +51,3 @@ Throughout history man and woman of faith fought for the liberty to exercise the
 
 ## License
 [Apache](LICENSE)
-# inquisition-returns

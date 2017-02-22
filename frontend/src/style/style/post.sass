@@ -1,0 +1,113 @@
+$header_font_size: 2em
+$resize_factor: 1.05
+#entry
+  .container 
+    clear: both
+    max-width: 800px
+
+  .info
+    +responsive('padding-bottom', 12px, $resize_factor)
+    h1, p
+      text-align: center
+      color: #111
+      opacity: 1
+    p
+      +responsive('font-size', $header_font_size * .45, $resize_factor)
+      font-weight: 300
+      margin-bottom: 0
+  
+  .author-info
+    +shadow()
+    h6
+      +responsive('font-size', $header_font_size * .45, $resize_factor)
+      +responsive('padding-bottom', 12px, $resize_factor)
+      font-weight: 400
+
+    margin: 64px auto
+    padding: 15px
+    width: 100%
+    max-width: 500px
+    background: #FAFAFA
+    border: #DDD 1px solid
+    +cross_browsers('border-radius', 2px)
+    .author-card
+      display: inline-block
+    .photo
+      float: left
+      width: 25%
+      img
+        width: 85%
+        +cross_browsers('border-radius', 50%)
+    .bio
+      padding: 5px
+      float: right
+      width: 75%  
+      p
+        +responsive('font-size', $header_font_size * .40, $resize_factor)
+        font-style: italic
+        margin-bottom: 15px
+ 
+  .search
+    margin: 40px
+    float: right
+    +mobile_ready(display, block, none)
+    +mobile_ready('margin-bottom', -48px, -8px)
+   
+  // Blog
+  
+  h1, h2, h3, h4
+    +responsive('padding-top', 16px, $resize_factor)
+    +responsive('padding-bottom', 16px, $resize_factor)
+    opacity: 1
+  p
+    +responsive('font-size', $header_font_size * .55, $resize_factor)
+    +responsive('line-height', $header_font_size * 1, $resize_factor)
+    margin-bottom: 10px
+    opacity: 1
+  a
+    color: $wspecs_orange
+    text-decoration: none
+
+  blockquote
+    +responsive('margin', $header_font_size * .5, $resize_factor)
+    +responsive('padding-left', $header_font_size * .7, $resize_factor)
+    +responsive('font-size', $header_font_size * .5, $resize_factor)
+    +responsive('line-height', $header_font_size * .8, $resize_factor)
+    border-left: $wspecs_blue 5px solid
+    color: gray
+  
+  h1
+    +responsive('font-size', $header_font_size, $resize_factor) 
+  h2
+    +responsive('font-size', $header_font_size * .85, $resize_factor) 
+  h3
+    +responsive('font-size', $header_font_size * .80, $resize_factor) 
+  h4
+    +responsive('font-size', $header_font_size * .75, $resize_factor)  
+
+  img
+    width: 100%
+    +cross_browsers('border-radius', 2px)
+    border-left: 1px solid $wspecs_orange
+    +responsive('margin-bottom', 12px, $resize_factor)
+    +shadow()
+
+  ul, ol
+    list-style-type: square
+    +responsive('margin', $header_font_size * .5, $resize_factor)
+    +responsive('padding-left', $header_font_size * .5, $resize_factor)
+  ul li, ol li
+    +responsive('margin', $header_font_size * .45, $resize_factor)
+  
+  pre
+    margin: 12px 0
+    padding: 16px
+    border: 1px solid #CCC
+    +cross_browsers('border-radius', 4px)
+    background: #FAFAFA
+
+  pre, code
+    font-family: Consolas, monospace
+    line-height: 18px
+    font-size: 14px
+    white-space: pre-wrap
