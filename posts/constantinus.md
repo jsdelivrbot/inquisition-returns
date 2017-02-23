@@ -4,12 +4,14 @@ id=FNp42Yca8w
 authorKey=wendly
 image=https://inquisitionreturns.com/img/constantinus.jpg
 publish=true
-created=Tue Jun 23 2016 07:37:59 GMT+0300 (EEST)
-publishDate=Tue Jun 23 2016 07:37:59 GMT+0300 (EEST)
 summary=Constantinus proved himself at a very young age. A devout leader, a skillful soldier, and a professional archer, the young Caesar displayed his patriotic ties to the Roman Empire. His loyalty was display in the front line. And Constantinus sometimes flatter himself by claiming his absence would cause the suffering of the empire.
+created=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
+publishDate=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
+updated=Thu Feb 23 2017 20:05:04 GMT+0200 (EET)
+searches=
 -->
 
-![Constantinus](https://inquisitionreturns.com/img/constantinus.jpg)
+![Constantinus II - Decline of Rome's Quote](https://inquisitionreturns.com/img/constantinus.jpg)
 ## Intro
 Constantinus proved himself at a very young age. A devout leader, a skillful
 soldier, and a professional archer, the young Caesar displayed his patriotic
