@@ -3,11 +3,11 @@ title=Julian the Apostate
 id=LD36nfXBYD
 authorKey=wendly
 image=https://apps.wspecs.com/images/julian.jpg
-publish=false
+publish=true
 summary=Julian in born in Constantinople in 332 to Julius Constantius and Basilina. He learned grammar, Roman literature, and rhetoric. He rose as the sole emperor of Rome in 361 after Constantius II died. No sooner than his ascension to the throne did Julian decide to renounce all his ties to the Christian God. He voiced his intentions to reestablish the worship of the pagan God. This action gave him the name of Julian the apostate.
 created=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
-publishDate=Fri Jun 24 2016 07:37:59 GMT+0300 (EEST)
-updated=Thu Feb 23 2017 20:12:35 GMT+0200 (EET)
+publishDate=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
+updated=Thu Feb 23 2017 20:13:22 GMT+0200 (EET)
 searches=
 -->
 
