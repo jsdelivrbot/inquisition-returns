@@ -2,15 +2,16 @@
 title=Behind the blogger
 id=N1qAa1fDsA
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/logo_ir_small.png
+image=https://inquisitionreturns.com/img/logo_ir_small.png
 publish=true
 summary=In this post I briefly introduce myself. I mainly stay along the line of the great controversy starting in the garden of Eden and emphasize the role that our generation have in this conflict.
 created=Wed Mar 09 2016 04:15:04 GMT+0200 (EET)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Wed Mar 09 2016 04:15:04 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Behind the blogger's Quote](https://servone.wspecs.com/wspecs/full/logo_ir_small.png)
+![Behind the blogger's Quote](https://inquisitionreturns.com/img/logo_ir_small.png)
 ## Intro
 The story of redemption started with the first Adam. After the fall, God made provision for humanity and promised to put enmity between the serpent and the seed of Eve. This journey of consistent faith plays throughout many centuries; each subsequent generation, from Abel down to ours, must side in this controversy by choosing to accept or reject the redemptive promise.
 

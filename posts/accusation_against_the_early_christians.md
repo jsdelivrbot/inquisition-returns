@@ -2,15 +2,16 @@
 title=Accusation Against the Early Christians
 id=OOt6jgK4f1
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/paul.jpg
+image=https://inquisitionreturns.com/img/paul.jpg
 publish=true
 summary=To many, the Gospel constituted of the very life they seek. In Jesus, they found a rest and peace that surpasses anything their world can offer. Many forsake the teaching of the Pharisee. Others left their idol worships. Some surrendered the cherished ideologies to cling unto the everlasting Gospel.
 created=Thu Apr 07 2016 05:24:53 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Thu Apr 07 2016 05:24:53 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Accusation Against the Early Christians's Quote](https://servone.wspecs.com/wspecs/full/paul.jpg)
+![Accusation Against the Early Christians's Quote](https://inquisitionreturns.com/img/paul.jpg)
 ## Intro
 In the early stage of Christianity, the believers in Christ suffered many persecutions. These early believers were ridiculed for their faith, yet they were encouraged by the hope the Gospel brings. They wholeheartedly believed in the message of Salvation. To many of these believers, the Gospel constituted of the very life they seek. In Jesus, they found  rest and peace that surpasses anything their world could offer. Many forsook the teachings of the Pharisees. Others broke with their idol worships. Some surrendered the cherished ideologies of their time to cling instead unto the everlasting Gospel.
 

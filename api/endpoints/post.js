@@ -102,7 +102,12 @@
      * @return {void}
      */
     peak(req, res){
-      Post.find({}, {id: 1}, (err, docs) => {
+      const query = Post
+        .find()
+        .select('title summary author.first author.last publishDate -_id')
+        .limit(3)
+        .sort({publishDate: -1});
+      query.exec((err, docs) => {
         err = err || !docs;
         return fn.resolve(err, res, docs);
       });

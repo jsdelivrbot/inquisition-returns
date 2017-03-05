@@ -2,15 +2,16 @@
 title=Diocletian
 id=st7D1zkipo
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/diocletian.jpg
+image=https://inquisitionreturns.com/img/diocletian.jpg
 publish=true
 summary=Diocletian, the reformer of Rome, was born in a regular family. Diocletian’s aptitude and intuition in planning military attacks helped to quickly earn the respect of renowned general. He increased in military ranks very fast. He was a very egocentric emperor. His legacy of persecution continued 2 years after his death. An ambitious emperor, his reform affected Rome financially.
 created=Fri Apr 22 2016 05:31:50 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Fri Apr 22 2016 05:31:50 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Diocletian's Quote](https://servone.wspecs.com/wspecs/full/diocletian.jpg)
+![Diocletian's Quote](https://inquisitionreturns.com/img/diocletian.jpg)
 ## Intro
 Persecutions died out in Rome at the beginning of the 3rd century. For the most part, the Christian enjoy some peaceful moment. They lived and settled in diverse parts of Rome. This season of peace was followed a few period of intense persecutions. The most severe of the trials occurred during the reign the famous reformer and brutal emperor Diocletian.
 

@@ -286,21 +286,21 @@
      */
     findAll(col, query, finder){
       return new Promise((resolve, reject) => {
-      this.getDb().then(db => {
-        if (db) {
-          const collection = db.collection(col);
-          collection.find(query, finder).toArray((err, docs) => {
-            if (err || !docs){
-              log.error(err);
-              reject(err);
-            }
-            else{
-              resolve(docs);
-            }
-            db.close();
-          });
-        }
-      });
+        this.getDb().then(db => {
+          if (db) {
+            const collection = db.collection(col);
+            collection.find(query, finder).toArray((err, docs) => {
+              if (err || !docs){
+                log.error(err);
+                reject(err);
+              }
+              else{
+                resolve(docs);
+              }
+              db.close();
+            });
+          }
+        });
       });
     },
 

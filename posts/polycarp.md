@@ -2,15 +2,16 @@
 title=Polycarp
 id=0MfQBSBIer
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/polycarp.jpg
+image=https://inquisitionreturns.com/img/polycarp.jpg
 publish=true
 summary=Polycarp labored in Smyrna as a bishop from the 90s until his death in 156 A.D. A preacher of the Gospel, Polycarp is remembered by his enemies as the destroyer of the gods. Polycarp becomes very influential. His influential preaching inversely impacted the economy around the iconographic industry. His enemies set out to silence him.
 created=Tue Apr 05 2016 07:37:12 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Tue Apr 05 2016 07:37:12 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Polycarp's Quote](https://servone.wspecs.com/wspecs/full/polycarp.jpg)
+![Polycarp's Quote](https://inquisitionreturns.com/img/polycarp.jpg)
 ## Intro
 Polycarp was born in Asia Minor in 65 A.D. around the time of Nero's persecution. After the destruction of the temple of Jerusalem in 70 A.D., the Christian persecutions ceased for about 20 years. Polycarp had the opportunity to study from the Apostle John, the beloved disciple. Polycarp labored in Smyrna as a bishop from the 90s until his death in 156 A.D. A preacher of the Gospel, Polycarp is remembered by his enemies as the destroyer of the gods.
 

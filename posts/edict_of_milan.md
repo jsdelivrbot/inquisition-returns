@@ -2,15 +2,16 @@
 title=Edict of Milan
 id=vmFAeu7NF9
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/edict_of_milan.jpg
+image=https://inquisitionreturns.com/img/edict_of_milan.jpg
 publish=true
 summary=The ‘Edict of Milan’ survived for nine years. Its promises failed to prevail in the following centuries. This legal measure allowed any to organize churches and assemble whenever possible. By the time Europe was fully indoctrinated by Romish dogmas. The principle of ‘cuius regio eius religio’  survived. The religion of the prince really did become the religion of the populace.
 created=Fri Apr 22 2016 08:18:44 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Fri Apr 22 2016 08:18:44 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Edict of Milan's Quote](https://servone.wspecs.com/wspecs/full/edict_of_milan.jpg)
+![Edict of Milan's Quote](https://inquisitionreturns.com/img/edict_of_milan.jpg)
 ## Intro
 Shortly after Constantine gained control of Western Rome. He started to find ways to establish his dominance in the Roman empire. In 312 at the Battle of the Milvian Bridge, He defeated Maxentius and gained much of control of Rome. He confessed to his general his vision of ‘chi-rho’ sign. A symbol that spells the name of Christ. And Constantine claimed that he has been shown that he shall conquer Rome in the ‘chi-rho’ sign. Upon his victory, he refused to attend homage services at the Jupiter temple. And verbally align himself under the Christian banner.
 

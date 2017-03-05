@@ -2,15 +2,16 @@
 title=Council of Jerusalem
 id=J5DjWQLAFP
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/council_of_jerusalem.jpg
+image=https://inquisitionreturns.com/img/council_of_jerusalem.jpg
 publish=true
 summary=As the church continues to expand, there arise teachers preaching another Gospel, commanding circumcision as a requirement for the Salvation. Believers met at Jerusalem to settle the issue at hand. Add arriving there, they disputed and offered their supported arguments for or against the prose.
 created=Sun Mar 20 2016 21:35:25 GMT+0200 (EET)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Sun Mar 20 2016 21:35:25 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Council of Jerusalem's Quote](https://servone.wspecs.com/wspecs/full/council_of_jerusalem.jpg)
+![Council of Jerusalem's Quote](https://inquisitionreturns.com/img/council_of_jerusalem.jpg)
 ## Background
 
 Around 15 years after the death of Stephen, the Gospel reached the realm of Roman Empire. The event that started in front of the Temple of Jerusalem spread to Judea, Samaria, and beyond. The convincing and convicted truths of the Gospel added drew many repentant sinners to God's fold.

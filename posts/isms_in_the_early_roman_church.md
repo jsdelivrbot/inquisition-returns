@@ -2,15 +2,16 @@
 title=Isms in the Early Roman Church
 id=uPvpVr29sS
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/isms_century.jpg
+image=https://inquisitionreturns.com/img/isms_century.jpg
 publish=true
 summary=Instead of clinging the bible as the compass for the Christian movement, many believers reduce the Gospel to human traditions. Many conflicting views arose around the fourth century included: Arianism, Asceticism, Donatism, Eutychianism, Monarchianism, Nestorianism, Pelagianism, Platonism, Sabellianism. Let take a look at those isms.
 created=Fri May 20 2016 05:57:35 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Fri May 20 2016 05:57:35 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Isms in the Early Roman Church's Quote](https://servone.wspecs.com/wspecs/full/isms_century.jpg)
+![Isms in the Early Roman Church's Quote](https://inquisitionreturns.com/img/isms_century.jpg)
 ## Intro
 State and church officially clasped hands in the fourth century. Around this time, many controversies arose within the church. Church officials started to rely on the government. Church matters were controlled by the Roman state. Within the church, some believers decided to follow the hierarchical structure established by the sovereign Holy Roman Empire. A group of believers heavily relied on the findings of the early church council, while others searched the canon to calibrate their beliefs and to define their faith.
 

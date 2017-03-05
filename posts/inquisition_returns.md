@@ -2,15 +2,16 @@
 title=Inquisition Returns
 id=0ehY53vlvh
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/ir-preview.jpg
+image=https://inquisitionreturns.com/img/ir-preview.jpg
 publish=true
 summary=We should learn from history. Really. As we read about the inquisition, it should become evident that its main goal was to keep everyone, without exception, in darkness. by fighting vehemently against heresy. To formulate any ideas whether scientific, religious, philosophical, or even political without the approbation of the Church of Rome meant danger.
 created=Wed Mar 09 2016 04:27:08 GMT+0200 (EET)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Wed Mar 09 2016 04:27:08 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Inquisition Returns's Quote](https://servone.wspecs.com/wspecs/full/ir-preview.jpg)
+![Inquisition Returns's Quote](https://inquisitionreturns.com/img/ir-preview.jpg)
 ## Intro
 Inquisition is defined intensive questioning and investigation often under force or torture. Force and torture during the questioning are often associated with the historical inquisitions started by Holy Roman Empire. Many individuals tend to believe that the inquisitions were *"not that bad."*, even among Christians. This naive assumption is fully refuted by historical account in form of writings and pictures that cover the horrible events that occurred during the dark ages.
 

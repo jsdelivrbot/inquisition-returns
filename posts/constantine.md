@@ -2,15 +2,16 @@
 title=Constantine
 id=PlcMj6uIHt
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/constantine.jpg
+image=https://inquisitionreturns.com/img/constantine.jpg
 publish=true
 summary=History records the acts of no other civil ruler who has wrought so great changes in the church as did Constantine. He gave a new form of government to the church, having for his model the government of the empire. He created offices in the church unknown to the New Testament, and he corrupted the doctrines and practices of the church.
 created=Fri Apr 22 2016 20:03:32 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Fri Apr 22 2016 20:03:32 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Constantine's Quote](https://servone.wspecs.com/wspecs/full/constantine.jpg)
+![Constantine's Quote](https://inquisitionreturns.com/img/constantine.jpg)
 ## Intro
 One of the most controversial figures in Christian history is Constantine the Great. This was the first Christian Roman emperor that publicly acknowledged the Christian faith as valid religion. His regulations and dictations in religious matter favored many Romans. Later, leaders of the Roman Catholic faith recognized Constantine as a saint. In contrast, protestant faith categorized Constantine as a compromiser, who facilitated pagan practices in Christianity. Constantine’s faith may be speculated upon; however, as an emperor he revolutionized the Roman Empire by ending Christian persecution temporarily.
 

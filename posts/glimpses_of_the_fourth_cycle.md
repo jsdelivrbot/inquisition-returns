@@ -2,15 +2,16 @@
 title=Glimpses of the fourth cycle
 id=PJ46xX9zwF
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/fourth_cycle.jpg
+image=https://inquisitionreturns.com/img/fourth_cycle.jpg
 publish=true
 summary=Christianity had many many turning point during the fourth century. Like a roller coaster, the church's history during the fourth century was marked by opposing events. With its up and down, the fourth century remain as a pivotal moment in the church history.
 created=Mon Jun 06 2016 08:41:37 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Mon Jun 06 2016 08:41:37 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Glimpses of the fourth cycle's Quote](https://servone.wspecs.com/wspecs/full/fourth_cycle.jpg)
+![Glimpses of the fourth cycle's Quote](https://inquisitionreturns.com/img/fourth_cycle.jpg)
 ## Intro
 Christianity had many up and downs during the fourth century. Like a roller coaster, the church's history during the fourth century was marked by opposing events. During the first three centuries, the persecuted church was in an unfavorable position with the Roman state. The fourth century denoted a different church, a church favored by the Roman state, a church with a persecuting zeal toward its declared heretics.
 

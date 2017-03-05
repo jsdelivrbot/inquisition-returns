@@ -2,15 +2,16 @@
 title=Eusebius: Scripture Conflict
 id=VNxaItPMHe
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/eusebius.jpg
+image=https://inquisitionreturns.com/img/eusebius.jpg
 publish=true
 summary=In the fourth century, one called Eusebius, lead a fight that impacted future generations. By his cleverness and reputation, he molded the Gospel and fabricated scriptures to facilitate the expansion of universal apostasies
 created=Sun May 29 2016 06:49:29 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Sun May 29 2016 06:49:29 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Eusebius: Scripture Conflict's Quote](https://servone.wspecs.com/wspecs/full/eusebius.jpg)
+![Eusebius: Scripture Conflict's Quote](https://inquisitionreturns.com/img/eusebius.jpg)
 #Intro
 The first three centuries of Christianity was marked by persecution. From its
 inception, Christians were challenged at all levels of society. The rich and poor, the

@@ -2,15 +2,16 @@
 title=Seven Ecumenical Councils
 id=yS5GH4IiJM
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/ecumenical_councils.jpg
+image=https://inquisitionreturns.com/img/ecumenical_councils.jpg
 publish=true
 summary=The ecumenical councils failed to accomplish their goals. Instead of uniting the church, they mostly introduced apostasy that weakened the Gospel. The councils further split the visible church. By 451, many of orthodox church from Asia and North Africa abandoned the apostasy of the so-called Holy Roman Empire, to find refuge and inspiration from the word of God. Those churches correctly reviewed the councils as bureaucratic exercises.
 created=Sun May 01 2016 22:08:23 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Sun May 01 2016 22:08:23 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Seven Ecumenical Councils's Quote](https://servone.wspecs.com/wspecs/full/ecumenical_councils.jpg)
+![Seven Ecumenical Councils's Quote](https://inquisitionreturns.com/img/ecumenical_councils.jpg)
 ## Intro
 In the fourth century, many doctrinal discussions arose among the Christians. With the influx of unconverted believers, confessors of Christianity needed to find common doctrinal ground for their faith. Many started to depart from the simplicity of the gospel. Added to this departure was the indoctrinated additions of modern day philosophers to the apostle’s teaching. Many confusing interpretations arise apart from the prescriptions of scripture. 
 

@@ -2,15 +2,16 @@
 title=Stephen - First Martyr
 id=OnQsoBQgWL
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/stephen_quote.jpg
+image=https://inquisitionreturns.com/img/stephen_quote.jpg
 publish=true
 summary=Stephen's death catalyzed the proclamation of the Gospel. The early church increased. If the Gospel consisted of a spark, instead of quenching its flames, the Sanhedrin by stoning Stephen ignited a fire. As the early believers escaped to flee persecution and protect their lives, their dashing flight amplifies the brightness of the redemptive torch they cling
 created=Sun Mar 13 2016 22:22:49 GMT+0200 (EET)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Sun Mar 13 2016 22:22:49 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Stephen - First Martyr's Quote](https://servone.wspecs.com/wspecs/full/stephen_quote.jpg)
+![Stephen - First Martyr's Quote](https://inquisitionreturns.com/img/stephen_quote.jpg)
 ## Background
 
 After Christ's resurrection, the disciples, and many believers received the promised of the Holy Spirit. The apostle boldly proclaimed the rising Messiah. By sign and wonder, the powerful words of Christ's witnesses moved many to repentance. The early church grew rapidly and continued steadfastly in the apostle's Doctrine. This growth poked at the establish authority of the sect of the Pharisee and, to some extent, altered the Roman Economy.

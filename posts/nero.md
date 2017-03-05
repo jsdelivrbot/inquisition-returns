@@ -2,15 +2,16 @@
 title=Nero
 id=LqW5n3Qtyn
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/nero.jpg
+image=https://inquisitionreturns.com/img/nero.jpg
 publish=true
 summary=Nero is the last of the Julio-Claudian Emperor. He became the first emperor to order mass persecution of Christian. His execution style begs for mercy. He organized execution circus sending wild beasts to devour the perceived enemy of the state. In his 13 years as Emperor, Nero perfected the legacy of debauchery and anti-Christian persecution.
 created=Wed Mar 23 2016 05:51:53 GMT+0200 (EET)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Wed Mar 23 2016 05:51:53 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Nero's Quote](https://servone.wspecs.com/wspecs/full/nero.jpg)
+![Nero's Quote](https://inquisitionreturns.com/img/nero.jpg)
 ## Rise to the throne
 Nero is the last of the Julio-Claudian Emperor. His mother Agrippina was the great grand-daughter of Augustus. Caligula, a Roman Emperor, exiled Agrippina and her family. After, Caligula's death, Aggripina regained access to the royal halls. She later married Claudius, the Roman Emperor at the time, and persuaded him to declare Nero as his adoptive son, making him heir to the throne. With this adoption, Aggripina hopes to secure access to the Roman throne. She poisoned Claudius, and Nero became the emperor or Rome at the age of 17 in 54 A.D.
 

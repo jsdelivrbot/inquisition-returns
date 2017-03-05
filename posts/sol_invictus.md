@@ -2,16 +2,16 @@
 title=The Unconquerable day of the Sun
 id=jBW8ZehLIT
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/constantine.jpg
+image=https://inquisitionreturns.com/img/constantine.jpg
 publish=true
 summary=Throughout the ages, the inhabitants of the world worshiped the sun. In one form or another, deities were created to represent the sun. Numerous creative form of nature worship has existed in almost all civilizations. Some create a god out of everything; however, the sun has received an undeserved homage and reverence that is only due to the Creator God.
 created=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
 publishDate=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
-updated=Wed Feb 22 2017 09:04:16 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![The Unconquerable day of the Sun's Quote](https://servone.wspecs.com/wspecs/full/constantine.jpg)
+![The Unconquerable day of the Sun's Quote](https://inquisitionreturns.com/img/constantine.jpg)
 ## Intro
 Throughout the ages, the inhabitants of the world worshiped the sun. In one
 form or another, deities were created to represent the sun. Numerous creative form
@@ -96,7 +96,7 @@ the Sabbath which is the seventh day of the week is Saturday.
 > Protestants ought to keep their Sabbath on Saturday, and thus leave Catholics
 > in full possession of Sunday.
 >
-> *Catholic Record, Sept. 17, 1891.*
+> *Catholic Record, Sept 17, 1891.*
 
 ## Closing Comment
 Why then does many worship on Sunday providing that such practice is

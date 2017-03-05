@@ -2,15 +2,16 @@
 title=Justin Martyr
 id=cf9CU7TtkK
 authorKey=wendly
-image=https://servone.wspecs.com/wspecs/full/justin_martyr.jpg
+image=https://inquisitionreturns.com/img/justin_martyr.jpg
 publish=true
 summary=Justin is a philosopher and Christian apologist. He studied Platonic and Stoic philosophy. A true philosopher, Justin devoted his life to the radicalization of the Christian faith. After his baptism, Justin traveled Rome and expound on the Old testament in many public squares.
 created=Tue Mar 29 2016 19:23:16 GMT+0300 (EEST)
-updated=Mon Feb 20 2017 05:37:49 GMT+0200 (EET)
+publishDate=Tue Mar 29 2016 19:23:16 GMT+0300 (EEST)
+updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
 searches=
 -->
 
-![Justin Martyr's Quote](https://servone.wspecs.com/wspecs/full/justin_martyr.jpg)
+![Justin Martyr's Quote](https://inquisitionreturns.com/img/justin_martyr.jpg)
 ## Intro
 Justin is a philosopher and Christian apologist. He was born in the first century around 100 A.D. in Flavia Neapolis, Italy. He studied Platonic and Stoic philosophy. A true philosopher, Justin devoted his life to radicalize the Christian faith. After his baptism, Justin traveled to Rome expounding on the Old Testament in many public squares.
 
