@@ -7,7 +7,7 @@ publish=true
 summary=The ecumenical councils failed to accomplish their goals. Instead of uniting the church, they mostly introduced apostasy that weakened the Gospel. The councils further split the visible church. By 451, many of orthodox church from Asia and North Africa abandoned the apostasy of the so-called Holy Roman Empire, to find refuge and inspiration from the word of God. Those churches correctly reviewed the councils as bureaucratic exercises.
 created=Sun May 01 2016 22:08:23 GMT+0300 (EEST)
 publishDate=Sun May 01 2016 22:08:23 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:43 GMT+0200 (EET)
 searches=
 -->
 

@@ -7,7 +7,7 @@ publish=true
 summary=The ‘Edict of Milan’ survived for nine years. Its promises failed to prevail in the following centuries. This legal measure allowed any to organize churches and assemble whenever possible. By the time Europe was fully indoctrinated by Romish dogmas. The principle of ‘cuius regio eius religio’  survived. The religion of the prince really did become the religion of the populace.
 created=Fri Apr 22 2016 08:18:44 GMT+0300 (EEST)
 publishDate=Fri Apr 22 2016 08:18:44 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

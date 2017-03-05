@@ -7,7 +7,7 @@ publish=true
 summary=In the fourth century, one called Eusebius, lead a fight that impacted future generations. By his cleverness and reputation, he molded the Gospel and fabricated scriptures to facilitate the expansion of universal apostasies
 created=Sun May 29 2016 06:49:29 GMT+0300 (EEST)
 publishDate=Sun May 29 2016 06:49:29 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

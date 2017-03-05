@@ -7,7 +7,7 @@ publish=true
 summary=History records the acts of no other civil ruler who has wrought so great changes in the church as did Constantine. He gave a new form of government to the church, having for his model the government of the empire. He created offices in the church unknown to the New Testament, and he corrupted the doctrines and practices of the church.
 created=Fri Apr 22 2016 20:03:32 GMT+0300 (EEST)
 publishDate=Fri Apr 22 2016 20:03:32 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

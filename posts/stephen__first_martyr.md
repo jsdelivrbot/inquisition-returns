@@ -7,7 +7,7 @@ publish=true
 summary=Stephen's death catalyzed the proclamation of the Gospel. The early church increased. If the Gospel consisted of a spark, instead of quenching its flames, the Sanhedrin by stoning Stephen ignited a fire. As the early believers escaped to flee persecution and protect their lives, their dashing flight amplifies the brightness of the redemptive torch they cling
 created=Sun Mar 13 2016 22:22:49 GMT+0200 (EET)
 publishDate=Sun Mar 13 2016 22:22:49 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

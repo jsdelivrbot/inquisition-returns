@@ -7,7 +7,7 @@ publish=true
 summary=Christianity had many many turning point during the fourth century. Like a roller coaster, the church's history during the fourth century was marked by opposing events. With its up and down, the fourth century remain as a pivotal moment in the church history.
 created=Mon Jun 06 2016 08:41:37 GMT+0300 (EEST)
 publishDate=Mon Jun 06 2016 08:41:37 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

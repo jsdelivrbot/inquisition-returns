@@ -7,7 +7,7 @@ publish=true
 summary=In this post I briefly introduce myself. I mainly stay along the line of the great controversy starting in the garden of Eden and emphasize the role that our generation have in this conflict.
 created=Wed Mar 09 2016 04:15:04 GMT+0200 (EET)
 publishDate=Wed Mar 09 2016 04:15:04 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

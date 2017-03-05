@@ -7,7 +7,7 @@ publish=true
 summary=Instead of clinging the bible as the compass for the Christian movement, many believers reduce the Gospel to human traditions. Many conflicting views arose around the fourth century included: Arianism, Asceticism, Donatism, Eutychianism, Monarchianism, Nestorianism, Pelagianism, Platonism, Sabellianism. Let take a look at those isms.
 created=Fri May 20 2016 05:57:35 GMT+0300 (EEST)
 publishDate=Fri May 20 2016 05:57:35 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

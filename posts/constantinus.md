@@ -7,7 +7,7 @@ publish=true
 summary=Constantinus proved himself at a very young age. A devout leader, a skillful soldier, and a professional archer, the young Caesar displayed his patriotic ties to the Roman Empire. His loyalty was display in the front line. And Constantinus sometimes flatter himself by claiming his absence would cause the suffering of the empire.
 created=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
 publishDate=Thu Jun 23 2016 07:37:59 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:36 GMT+0200 (EET)
 searches=
 -->
 

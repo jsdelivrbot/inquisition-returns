@@ -7,7 +7,7 @@ publish=true
 summary=As the church continues to expand, there arise teachers preaching another Gospel, commanding circumcision as a requirement for the Salvation. Believers met at Jerusalem to settle the issue at hand. Add arriving there, they disputed and offered their supported arguments for or against the prose.
 created=Sun Mar 20 2016 21:35:25 GMT+0200 (EET)
 publishDate=Sun Mar 20 2016 21:35:25 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

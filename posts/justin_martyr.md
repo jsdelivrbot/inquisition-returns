@@ -7,7 +7,7 @@ publish=true
 summary=Justin is a philosopher and Christian apologist. He studied Platonic and Stoic philosophy. A true philosopher, Justin devoted his life to the radicalization of the Christian faith. After his baptism, Justin traveled Rome and expound on the Old testament in many public squares.
 created=Tue Mar 29 2016 19:23:16 GMT+0300 (EEST)
 publishDate=Tue Mar 29 2016 19:23:16 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

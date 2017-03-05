@@ -7,7 +7,7 @@ publish=true
 summary=Even in the midst of increased paganism in the Christian church of the fourth century, a faithful forty refused to sacrifice to idols. They kept their convictions until death. All are not called to martyrdom; however, we all need the courage to stand firm in times of trials.
 created=Tue May 17 2016 07:37:59 GMT+0300 (EEST)
 publishDate=Tue May 17 2016 07:37:59 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 
@@ -30,7 +30,7 @@ The soldiers spent their night in prayer and received comforting promised from s
 
 ## Punishment
 In the frozen winter night, the forty were led to the freezing water of a nearby lake. In the windy weather, stripped of clothing, they had to stand to their death unless they recanted their position. A guard was set to watch them. Warm baths on the side of the lake were made ready for anyone who wishes to change their mind. All forty except for one stood firm in the frosty wind. The cruel weather forced and overpowered one of the soldiers into surrender. The soldier quickly made it to the warm bath simply to meet his unexpected death. Seeing this temptation for surrender the forty prayed earnestly:
-> "Help us, O God our Saviour, for here we stand in the water and our feet are stained with our blood; ease the burden of our oppression and tame the cruelty of the air; O Lord our God on Thee do we hope, let us not be ashamed, but let all understand that we who call upon Thee have been saved."
+> “Help us, O God our Saviour, for here we stand in the water and our feet are stained with our blood; ease the burden of our oppression and tame the cruelty of the air; O Lord our God on Thee do we hope, let us not be ashamed, but let all understand that we who call upon Thee have been saved.”
 
 God heard their prayer and provided warm light to melt the ice. Aglaius, the guard, seeing this divine manifestation, left his watch to join the remaining 39 in the freezing water, shouting ‘I am a Christian too.’ And he prayed: “Lord God, I believe in You, in Whom these soldiers believe. Add me to their number, and make me worthy to suffer with Your servants.” The soldiers welcome their new companion and they encourage each of other with these words:
 > God so ordained that we made friends with each other in this temporary life; let us try not to separate even in eternity; just as we have been found plea sing to a mortal king, so let us strive to be worthy of the favor of the immortal King, Christ our God.” The soldiers miraculously survived the night.
@@ -42,4 +42,4 @@ The next morning Lucius come to check on the dead bodies. To his surprise not on
 > Acacius, Aetius, Aglaius, Alexander, Angus, Athanasius, Candidus, Chudion, Claudius, Cyril, Cyrion, Dometian, Domnus, Ecdicius, Elias, Eunoicus, Eutyches, Eutychius, Flavius, Gaius, Gorgonius, Helianus, Herachus, Hesychius, John, Lysimachus, Meliton, Nicholas, Philoctemon, Priscus, Sacerdon, Severian, Sisinius, Smaragdus, Theodulus, Theophilus, Valens, Valerius, Vivianus, and Xanthias.
 
 ## Closing comment
-Even in the midst of increased paganism in the Christian church of the fourth century,  faithful forty soldiers refused to sacrifice to idols. They kept their convictions until death. Not all are called to martyrdom; however, all of us need the courage to stand firm in times of trials. The Roman Emperor Julius Ceasar reminded us that “It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.” We should ask ourselves how long will our patience last when enduring pain? By refusing idol worship, God gave the forty soldiers the “patience of the saints:…they that keep the commandments of God, and the faith of Jesus.”
+Even in the midst of increased paganism in the Christian church of the fourth century,  faithful forty soldiers refused to sacrifice to idols. They kept their convictions until death. Not all are called to martyrdom; however, all of us need the courage to stand firm in times of trials. The Roman Emperor Julius Ceasar reminded us that “It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.” We should ask ourselves how long will our patience last when enduring pain? By refusing idol worship, God gave the forty soldiers the "patience of the saints:…they that keep the commandments of God, and the faith of Jesus."

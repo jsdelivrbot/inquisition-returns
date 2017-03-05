@@ -7,7 +7,7 @@ publish=true
 summary=In every generation, many faithfully held to their scriptural convictions, and endured a brutal end in hope for a better resurrection. Some believers settle for a compromised faith while others proclaimed the Gospel as the ultimate compass for Christendom. All the pioneers of the Christian Faith, save one, sealed their testimony at the cost of their lives.
 created=Tue Mar 22 2016 03:38:20 GMT+0200 (EET)
 publishDate=Tue Mar 22 2016 03:38:20 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 

@@ -7,7 +7,7 @@ publish=true
 summary=An overview of the topics that will be covered in the blog. This page will be updated regularly as new topic are added.
 created=Wed Mar 09 2016 04:23:40 GMT+0200 (EET)
 publishDate=Wed Mar 09 2016 04:23:40 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:50:34 GMT+0200 (EET)
+updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
 searches=
 -->
 
