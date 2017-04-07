@@ -93,7 +93,8 @@
                     log.info('update file %s', filename);
                     Post.denormalize(post, search);
                     Author.addInfo(post);
-                    setTimeout(() => resolve(filename), 1000);
+                    // Lock file for 10 seconds
+                    setTimeout(() => resolve(filename), 10 * 1000);
                 });
               }).catch(e => reject(e));
             }
@@ -113,19 +114,20 @@
   function syncChange(filename) {
     syncFile(filename).then(() => {
       delete WATCH_MAP[filename];
-      // Sync changes
-      shell.cd(WATCH_FOLDER);
-      log.debug('Syncing posts found under %s', process.cwd());
-      if(shell.exec(`git commit -am 'auto sync update'`).code !== 0) {
-        log.error('commit failed');
-      }
-      if (shell.exec('git push').code !== 0) {
-        log.error('pushed failed');
-      }
+      if (!args.options.sync) {
+        shell.cd(WATCH_FOLDER);
+        log.debug('Syncing posts found under %s', process.cwd());
+        if(shell.exec(`git commit -am 'auto sync update'`).code !== 0) {
+          log.error('commit failed');
+        }
+        if (shell.exec('git push').code !== 0) {
+          log.error('pushed failed');
+        }
 
-      // Go back to current folder
-      shell.cd(__dirname);
-      log.debug('Done with sync');
+        // Go back to current folder
+        shell.cd(__dirname);
+        log.debug('Done with GitHub Uplaod');
+      }
     }).catch(e => {
       log.error('Error %s', e);
       delete WATCH_MAP[filename];

@@ -23,20 +23,18 @@ Throughout history man and woman of faith fought for the liberty to exercise the
 * [mongodb](https://www.npmjs.com/package/mongodb) 
 * [mongoose](https://www.npmjs.com/package/mongoose) 
 * [child_process](https://www.npmjs.com/package/child_process) 
-* [easyimage](https://www.npmjs.com/package/easyimage) 
 * [chalk](https://www.npmjs.com/package/chalk) 
-* [nodemailer](https://www.npmjs.com/package/nodemailer) 
-* [nodemailer-smtp-transport](https://www.npmjs.com/package/nodemailer-smtp-transport) 
-* [randomstring](https://www.npmjs.com/package/randomstring) 
 * [moment](https://www.npmjs.com/package/moment) 
-* [html-to-text](https://www.npmjs.com/package/html-to-text) 
 * [request](https://www.npmjs.com/package/request) 
 * [body-parser](https://www.npmjs.com/package/body-parser) 
 * [cookie-parser](https://www.npmjs.com/package/cookie-parser) 
 * [express](https://www.npmjs.com/package/express) 
+* [randomstring](https://www.npmjs.com/package/randomstring) 
 * [showdown](https://www.npmjs.com/package/showdown) 
+* [minimistprocess.argv.slice2](https://www.npmjs.com/package/minimistprocess.argv.slice2) 
 
 ## REST api for IR blog
+* GET /admin/posts/:page
 * POST /author
 * GET /author/:id
 * PUT /author/:id

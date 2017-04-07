@@ -7,7 +7,7 @@ publish=true
 summary=Even in the midst of increased paganism in the Christian church of the fourth century, a faithful forty refused to sacrifice to idols. They kept their convictions until death. All are not called to martyrdom; however, we all need the courage to stand firm in times of trials.
 created=Tue May 17 2016 07:37:59 GMT+0300 (EEST)
 publishDate=Tue May 17 2016 07:37:59 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:15 GMT+0200 (EET)
 searches=
 -->
 

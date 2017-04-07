@@ -1,6 +1,6 @@
 {
   "name": "Inquisition Returns Blog",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Throughout history man and woman of faith fought for the liberty to exercise their beliefs as dictate by their conscience. Many endure torture and others faced death. While we temporarily enjoy the benefits of civil and religious, we should thrive to learn from history. Under the disguised of Christianity, many suffered tremendous persecutions through crusades, inquisition, and intimidation. Will this ever happen again? Let's retrace history!",
   "api": "http://api.wspecs.com/ir",
   "url": "https://inquisitionreturns.com",
@@ -21,17 +21,14 @@
     "mongodb": "latest",
     "mongoose": "latest",
     "child_process": "latest",
-    "easyimage": "latest",
     "chalk": "latest",
-    "nodemailer": "latest",
-    "nodemailer-smtp-transport": "latest",
-    "randomstring": "latest",
     "moment": "latest",
-    "html-to-text": "latest",
     "request": "latest",
     "body-parser": "latest",
     "cookie-parser": "latest",
     "express": "latest",
-    "showdown": "latest"
+    "randomstring": "latest",
+    "showdown": "latest",
+    "minimistprocess.argv.slice2": "latest"
   }
 }

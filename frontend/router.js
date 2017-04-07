@@ -13,7 +13,7 @@
 
     function mainHandler(req, res) {
       var page = req.params.page || 1;
-      request('/posts/' + page, (data) => {
+      request('/posts/' + page, res).then(data => {
         var tags = Object.assign({}, appInfo);
         tags.latest = data.start === 1 ? data.data.shift() : false;
         tags.recents = utils.groupArray(data.data || [], 2);
@@ -24,7 +24,7 @@
 
     function blogHandler(req, res) {
       var id = req.params.id || 1;
-      request('/post/' + id, (data) => {
+      request('/post/' + id, res).then(data => {
         var tags = Object.assign({}, appInfo);
         tags.referrer = req.headers.referrer || req.headers.referer || '#';
         if (data.author && (data.image || '').indexOf('http') === -1) {
@@ -41,7 +41,7 @@
 
     function searchHandler(req, res) {
       var query = req.params.query || '';
-      request('/search/' + query, function(data) {
+      request('/search/' + query, res).then(data => {
         if (data.length === 1) {
           res.redirect('/post/' + data[0].key);
           return;
@@ -58,7 +58,7 @@
       shell.cd(__dirname + '/..');
       shell.exec('git pull');
       shell.cd(__dirname);
-      res.render('error', {
+      res.render('http-code-tmpl', {
         code: res.statusCode,
         info: 'Done',
         message: 'All synced up!',

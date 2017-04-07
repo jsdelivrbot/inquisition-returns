@@ -7,7 +7,7 @@ publish=true
 summary=We should learn from history. Really. As we read about the inquisition, it should become evident that its main goal was to keep everyone, without exception, in darkness. by fighting vehemently against heresy. To formulate any ideas whether scientific, religious, philosophical, or even political without the approbation of the Church of Rome meant danger.
 created=Wed Mar 09 2016 04:27:08 GMT+0200 (EET)
 publishDate=Wed Mar 09 2016 04:27:08 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:16 GMT+0200 (EET)
 searches=
 -->
 

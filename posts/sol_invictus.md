@@ -7,7 +7,7 @@ publish=true
 summary=Throughout the ages, the inhabitants of the world worshiped the sun. In one form or another, deities were created to represent the sun. Numerous creative form of nature worship has existed in almost all civilizations. Some create a god out of everything; however, the sun has received an undeserved homage and reverence that is only due to the Creator God.
 created=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
 publishDate=Fri Jun 10 2016 05:40:51 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:16 GMT+0200 (EET)
 searches=
 -->
 

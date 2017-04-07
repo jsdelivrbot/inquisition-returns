@@ -7,7 +7,7 @@ publish=true
 summary=Diocletian, the reformer of Rome, was born in a regular family. Diocletian’s aptitude and intuition in planning military attacks helped to quickly earn the respect of renowned general. He increased in military ranks very fast. He was a very egocentric emperor. His legacy of persecution continued 2 years after his death. An ambitious emperor, his reform affected Rome financially.
 created=Fri Apr 22 2016 05:31:50 GMT+0300 (EEST)
 publishDate=Fri Apr 22 2016 05:31:50 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:57:36 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:16 GMT+0200 (EET)
 searches=
 -->
 

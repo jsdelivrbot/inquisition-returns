@@ -7,7 +7,7 @@ publish=true
 summary=Polycarp labored in Smyrna as a bishop from the 90s until his death in 156 A.D. A preacher of the Gospel, Polycarp is remembered by his enemies as the destroyer of the gods. Polycarp becomes very influential. His influential preaching inversely impacted the economy around the iconographic industry. His enemies set out to silence him.
 created=Tue Apr 05 2016 07:37:12 GMT+0300 (EEST)
 publishDate=Tue Apr 05 2016 07:37:12 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:57:42 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:16 GMT+0200 (EET)
 searches=
 -->
 

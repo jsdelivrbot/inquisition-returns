@@ -7,7 +7,7 @@ publish=true
 summary=To many, the Gospel constituted of the very life they seek. In Jesus, they found a rest and peace that surpasses anything their world can offer. Many forsake the teaching of the Pharisee. Others left their idol worships. Some surrendered the cherished ideologies to cling unto the everlasting Gospel.
 created=Thu Apr 07 2016 05:24:53 GMT+0300 (EEST)
 publishDate=Thu Apr 07 2016 05:24:53 GMT+0300 (EEST)
-updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:15 GMT+0200 (EET)
 searches=
 -->
 

@@ -7,7 +7,7 @@ publish=true
 summary=Nero is the last of the Julio-Claudian Emperor. He became the first emperor to order mass persecution of Christian. His execution style begs for mercy. He organized execution circus sending wild beasts to devour the perceived enemy of the state. In his 13 years as Emperor, Nero perfected the legacy of debauchery and anti-Christian persecution.
 created=Wed Mar 23 2016 05:51:53 GMT+0200 (EET)
 publishDate=Wed Mar 23 2016 05:51:53 GMT+0200 (EET)
-updated=Mon Mar 06 2017 00:57:44 GMT+0200 (EET)
+updated=Mon Mar 06 2017 01:02:16 GMT+0200 (EET)
 searches=
 -->
 
