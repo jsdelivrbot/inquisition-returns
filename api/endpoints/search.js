@@ -73,7 +73,7 @@ module.exports.unmap = unmap;
  * Modules endpoints
  * @return {void}
  */
-module.exports.getEndPoints = function () {
+module.exports.getEndPoints = function() {
   return {
     get: [
       {

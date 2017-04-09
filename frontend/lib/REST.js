@@ -20,9 +20,9 @@ module.exports = function(app, config, base, serverUrl, router){
       if (!link.startsWith('http')) {
         link = serverUrl + link;
       }
-      request(link, function (error, response, body) {
+      request(link, (error, response, body) => {
         if (!error && response.statusCode === 200) {
-          resolve(Object.assign(config, JSON.parse(body || {})));
+          resolve(JSON.parse(body));
         }
         else if (res) {
           app.locals.clientError(res);
